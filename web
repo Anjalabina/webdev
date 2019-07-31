@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Portfolio</title>
+         <title>PORTFOLIO</title>
     </head>
+    <body bgcolor="#000000" text="#eac5b0">
     <body>
-        <p>hi welcome to my portfolio page </p>
+        <p>hi  welcome to my portfolio page </p>
     </body>
 </html>
